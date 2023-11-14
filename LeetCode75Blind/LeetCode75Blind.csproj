@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Arrays\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Arrays\" />
+  </ItemGroup>
 </Project>
